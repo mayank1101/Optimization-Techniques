@@ -20,7 +20,7 @@
  * Variations of Assignment Problem (Unbalanced AP, Maximization AP)
 * Game Theory
  * Two Player Zero Sum Game
- * solving nx2 or 2xn game
- * solving mxn game
+ * solving **nx2** or **2xn** game
+ * solving **mxn** game
  
  **Note** Coding Assignment Problem can be found here [Transportation Problem](https://github.com/mayank1101/Optimization/tree/master/Coding%20Assignments)
